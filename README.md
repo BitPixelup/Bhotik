@@ -13,5 +13,7 @@ Bhotik is a calculator for quick physics calculations.
   - [ ] Electric Flux.
   - [ ] Drift Velocity.
 
-> [!NOTE]
+> [!NOTE ]
 > This project is under development and can produce inaccurate results!
+
+> You have to change values manually in code to get the desired result.
